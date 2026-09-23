@@ -8,4 +8,4 @@ person_1.grade()
 person_2.grade()
 person_3.grade()
 
-del person_1
+
